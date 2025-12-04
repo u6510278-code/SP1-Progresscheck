@@ -7,7 +7,7 @@ Simple RAG (Retrieval-Augmented Generation) app that:
 
 ## Clone repo
 
-git clone https://github.com/Ivank100/SP1.git
+git clone (https://github.com/u6510278-code/SP1-Progresscheck)
 cd SP1
 
 ## Create Enviroment 
